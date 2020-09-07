@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import time
 
-print(""" Ae Ae Ae """)
+print("This is harry potter cloak , It's time to get invisible")
 
 cap = cv2.VideoCapture(0)
 time.sleep(3)
